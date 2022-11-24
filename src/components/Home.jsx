@@ -4,8 +4,6 @@ import "../assets/home.css";
 import LightBulbs from "../assets/images/lightbulbs.jpg";
 import Github from "../assets/images/github.png";
 import Linkedin from "../assets/images/linkedin.png";
-import QuickAction from "../assets/images/quickAction.png";
-import RightArrow from "../assets/images/rightArrow.png";
 
 const Home = () => {
   const [fullnamePopup, setFullnamePopup] = useState("popupHide");
